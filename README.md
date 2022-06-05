@@ -26,6 +26,6 @@ Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
 - https://www.useweb3.xyz/
 
 # Crypto Bug Bounty Platforms
-- Immunefi[https://immunefi.com/]
-- Hackenproof[https://hackenproof.com/programs]
-- Code4rena[https://code4rena.com/]
+- [Immunefi](https://immunefi.com/)
+- [Hackenproof](https://hackenproof.com/programs)
+- [Code4rena](https://code4rena.com/)
