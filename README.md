@@ -12,3 +12,6 @@ A curated list of web3 Security materials and resources For Pentesters and Bug H
 - [Security Innovation Blockchain CTF](https://blockchain-ctf.securityinnovation.com/#/)
 - [GOAT Casino](https://github.com/nccgroup/GOATCasino)
 - [Paradigm CTF](https://github.com/paradigm-operations/paradigm-ctf-2021)
+
+# Common Vulnerabilities in Smart contracts MindMap
+![](/image/Vulnerabilities_in_Smart contracts.png)
