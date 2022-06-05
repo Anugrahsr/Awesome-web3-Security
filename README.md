@@ -30,7 +30,11 @@ Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
 - [Gitcoin](https://gitcoin.co/explorer)
 - [HackerOne](https://hackerone.com)
 
-# Web3 Secuity Conference Talks and Videos
+# Web3 Secuirty Newsletter
+- [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/)
+- [REKT](https://rekt.news/)
+- [Week in Ethereum News](https://weekinethereumnews.com/)
+# Web3 Security Conference Talks and Videos
 - [Overview of Web3 Smart Contract Hacking | IWCON-S22 Talk by Duncan Townsend](https://www.youtube.com/watch?v=lJQwuyW4t-k)
 - [hat Ethereum Smart Contract Hacking Looks Like by LiveOverFlow](http://www.youtube.com/watch?v=P8LXLoTUJ5g)
 - [The Web3 Security Mindset with Corey Petty](https://www.youtube.com/watch?v=zcJmWr5_GOc)
