@@ -21,6 +21,7 @@ Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
 - [Immunefi Medium](https://medium.com/immunefi)
 - [openzeppelin blogs](https://blog.openzeppelin.com/security-audits/)
 - [consensys Audit](https://consensys.net/diligence/audits/)
+- [Code4rena Audit Reports](https://code4rena.com/reports)
 
 # Crypto Bug Bounty Platforms
 - [Immunefi](https://immunefi.com/)
