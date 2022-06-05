@@ -21,7 +21,6 @@ Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
 - [Immunefi Medium](https://medium.com/immunefi)
 - [openzeppelin blogs](https://blog.openzeppelin.com/security-audits/)
 - [consensys Audit](https://consensys.net/diligence/audits/)
-- [Code4rena Audit Reports](https://code4rena.com/reports)
 
 # Crypto Bug Bounty Platforms
 - [Immunefi](https://immunefi.com/)
@@ -42,7 +41,6 @@ Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
 - [Web3 Security Playlist](https://www.youtube.com/playlist?list=PLox242_JhiuEe64LzW1M8XpiQ2-N5bZsX)
 - [Unstoppable - Damn Vulnerable DeFi | CTF](https://www.youtube.com/watch?v=A5s9aez43Co&list=PLO5VPQH6OWdXKPThrch6U0imGdD3pHLXi)
 - [Smart Contract Hacking - 0x0C - Attacking Authorization with Web3.js](https://www.youtube.com/watch?v=cOP9z9XWjwc)
-
 // To be updated!
 
 # RoadMap to learn Solidity
@@ -52,6 +50,19 @@ Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
 - https://solidity-by-example.org/
 - https://www.web3.university/
 - https://www.useweb3.xyz/
+
+# Smart Contract Security Audit Reports
+- [Chainsulting](https://github.com/chainsulting/Smart-Contract-Security-Audits)
+- [iskdrews](https://github.com/iskdrews/awesome-solidity-security)
+- [Avastars Smart Contract Audit Public Report](https://github.com/nicholashc/AvastarsAudit/)
+- [KubixSquare audit](https://github.com/KubixSquare/AuditReports)
+- [lemonade-audits](https://github.com/jigstack-dev/lemonade-audits)
+- [Techrate](https://github.com/TechRate/Smart-Contract-Audits)
+- [Quillhash](https://github.com/Quillhash/QuillAudit_Reports)
+- [interfinetwork](https://github.com/interfinetwork/smart-contract-audits)
+- [Decentraland audit](https://github.com/decentraland/smart-contract-audits)
+- [Tech-Audit](https://github.com/Tech-Audit/Smart-Contract-Audits)
+
 
 // To be updated!
 // RoadMap to be added
