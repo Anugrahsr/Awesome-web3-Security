@@ -30,3 +30,5 @@ Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
 - https://solidity-by-example.org/
 - https://www.web3.university/
 - https://www.useweb3.xyz/
+// To be updated!
+// RoadMap mindmap
