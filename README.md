@@ -27,6 +27,7 @@ Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
 - [Immunefi](https://immunefi.com/)
 - [Hackenproof](https://hackenproof.com/programs)
 - [Code4rena](https://code4rena.com/)
+- [Gitcoin](https://gitcoin.co/explorer)
 - [HackerOne](https://hackerone.com)
 
 # Web3 Secuity Conference Talks and Videos
