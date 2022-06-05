@@ -17,6 +17,11 @@ A curated list of web3 Security materials and resources For Pentesters and Bug H
 Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
 ![](/image/Vulnerabilities_in_Smart_contracts.png)
 
+# Web3 Audit blogs and reports
+- [Immunefi Medium](https://medium.com/immunefi)
+- [openzeppelin blogs](https://blog.openzeppelin.com/security-audits/)
+- [consensys Audit](https://consensys.net/diligence/audits/)
+
 # Crypto Bug Bounty Platforms
 - [Immunefi](https://immunefi.com/)
 - [Hackenproof](https://hackenproof.com/programs)
