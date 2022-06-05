@@ -4,7 +4,7 @@
 A curated list of web3 Security materials and resources For Pentesters and Bug Hunters.
 ---
 
-# Web3 CTFs
+# Vulnerable Web3 CTFs
 
 - [Capture the Ether](https://capturetheether.com/)
 - [The Ethernaut](https://ethernaut.openzeppelin.com/)
