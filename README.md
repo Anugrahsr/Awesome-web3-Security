@@ -14,5 +14,5 @@ A curated list of web3 Security materials and resources For Pentesters and Bug H
 - [Paradigm CTF](https://github.com/paradigm-operations/paradigm-ctf-2021)
 
 # Common Vulnerabilities in Smart contracts MindMap
-Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
+Open the mindmap in **[Xmind]**(https://www.xmind.net/m/2zbPP7/)
 ![](/image/Vulnerabilities_in_Smart_contracts.png)
