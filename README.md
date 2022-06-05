@@ -18,7 +18,7 @@ Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
 ![](/image/Vulnerabilities_in_Smart_contracts.png)
 
 # RoadMap to learn Solidity
-- tps://cryptozombies.io/
+- https://cryptozombies.io/
 - https://www.learnweb3.io/
 - https://www.smartcontract.engineer/
 - https://solidity-by-example.org/
