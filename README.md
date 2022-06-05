@@ -36,7 +36,6 @@ Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
 - [Web3 Security Playlist](https://www.youtube.com/playlist?list=PLox242_JhiuEe64LzW1M8XpiQ2-N5bZsX)
 
 // To be updated!
-// RoadMap mindmap
 
 # RoadMap to learn Solidity
 - https://cryptozombies.io/
@@ -47,4 +46,4 @@ Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
 - https://www.useweb3.xyz/
 - 
 // To be updated!
-// RoadMap mindmap
+// RoadMap to be added
