@@ -34,7 +34,8 @@ Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
 - [The Web3 Security Mindset with Corey Petty](https://www.youtube.com/watch?v=zcJmWr5_GOc)
 - [Security and Vulnerabilities in Web3 - Harry Papacharissiou](https://www.youtube.com/watch?v=QSmtVR0aniI)
 - [Web3 Security Playlist](https://www.youtube.com/playlist?list=PLox242_JhiuEe64LzW1M8XpiQ2-N5bZsX)
-
+- [Unstoppable - Damn Vulnerable DeFi | CTF](https://www.youtube.com/watch?v=A5s9aez43Co&list=PLO5VPQH6OWdXKPThrch6U0imGdD3pHLXi)
+- [Smart Contract Hacking - 0x0C - Attacking Authorization with Web3.js](https://www.youtube.com/watch?v=cOP9z9XWjwc)
 // To be updated!
 
 # RoadMap to learn Solidity
