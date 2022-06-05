@@ -28,12 +28,15 @@ Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
 - [Code4rena](https://code4rena.com/)
 - [HackerOne](https://hackerone.com)
 
-# Web3 Secuity Conference Tlks and Videos
+# Web3 Secuity Conference Talks and Videos
 - [Overview of Web3 Smart Contract Hacking | IWCON-S22 Talk by Duncan Townsend](https://www.youtube.com/watch?v=lJQwuyW4t-k)
 - [hat Ethereum Smart Contract Hacking Looks Like by LiveOverFlow](http://www.youtube.com/watch?v=P8LXLoTUJ5g)
 - [The Web3 Security Mindset with Corey Petty](https://www.youtube.com/watch?v=zcJmWr5_GOc)
 - [Security and Vulnerabilities in Web3 - Harry Papacharissiou](https://www.youtube.com/watch?v=QSmtVR0aniI)
 - [Web3 Security Playlist](https://www.youtube.com/playlist?list=PLox242_JhiuEe64LzW1M8XpiQ2-N5bZsX)
+
+// To be updated!
+// RoadMap mindmap
 
 # RoadMap to learn Solidity
 - https://cryptozombies.io/
@@ -42,5 +45,6 @@ Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
 - https://solidity-by-example.org/
 - https://www.web3.university/
 - https://www.useweb3.xyz/
+- 
 // To be updated!
 // RoadMap mindmap
