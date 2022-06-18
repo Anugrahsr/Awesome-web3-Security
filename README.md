@@ -30,7 +30,7 @@ Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
 - [Gitcoin](https://gitcoin.co/explorer)
 - [HackerOne](https://hackerone.com)
 
-# Web3 Secuirty Newsletter
+# Web3 Security Newsletter
 - [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/)
 - [REKT](https://rekt.news/)
 - [Week in Ethereum News](https://weekinethereumnews.com/)
