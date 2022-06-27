@@ -18,6 +18,9 @@ A curated list of web3 Security materials and resources For Pentesters and Bug H
 Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
 ![](/image/Vulnerabilities_in_Smart_contracts.png)
 
+How to become a smart contract auditor?[MindMap](https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-auditor)
+![](/image/Smart_Contract_Auditor.png)
+
 # Web3 blogs and reports
 - [Immunefi Medium](https://medium.com/immunefi)
 - [openzeppelin blogs](https://blog.openzeppelin.com/security-audits/)
