@@ -46,7 +46,8 @@ Open the [MindMap](https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-a
 - [Web3 Security Playlist](https://www.youtube.com/playlist?list=PLox242_JhiuEe64LzW1M8XpiQ2-N5bZsX)
 - [Unstoppable - Damn Vulnerable DeFi | CTF](https://www.youtube.com/watch?v=A5s9aez43Co&list=PLO5VPQH6OWdXKPThrch6U0imGdD3pHLXi)
 - [Smart Contract Hacking - 0x0C - Attacking Authorization with Web3.js](https://www.youtube.com/watch?v=cOP9z9XWjwc)
-[How to Audit a Smart Contract | Can you find the Solidity Security Vulnerabilities?](https://www.youtube.com/watch?v=TmZ8gH-toX0)
+- [How to Audit a Smart Contract | Can you find the Solidity Security Vulnerabilities?](https://www.youtube.com/watch?v=TmZ8gH-toX0)
+- [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ)
 
 // To be updated!
 
