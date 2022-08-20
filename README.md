@@ -7,6 +7,7 @@ A curated list of web3 Security materials and resources For Pentesters and Bug H
 # Vulnerable Web3 CTFs
 
 - [Capture the Ether](https://capturetheether.com/)
+- [CryptoHack](https://cryptohack.org/)
 - [The Ethernaut](https://ethernaut.openzeppelin.com/)
 - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
 - [Security Innovation Blockchain CTF](https://blockchain-ctf.securityinnovation.com/#/)
