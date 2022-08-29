@@ -26,9 +26,9 @@ Open the [MindMap](https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-a
 - [Immunefi Medium](https://medium.com/immunefi)
 - [openzeppelin blogs](https://blog.openzeppelin.com/security-audits/)
 - [Quill Audits Blogs](https://quillaudits.medium.com/)
-- [consensys Audit](https://consensys.net/diligence/audits/)
+- [consensys Audit Reports](https://consensys.net/diligence/audits/)
 - [Code4rena Audit Reports](https://code4rena.com/reports)
-- [Quillhash](https://github.com/Quillhash/QuillAudit_Reports)
+- [Quillhash Audit Reports](https://github.com/Quillhash/QuillAudit_Reports)
 - [Spearbit Audit Reports](https://github.com/spearbit/portfolio/tree/master/pdfs)
 
 
