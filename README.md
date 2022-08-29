@@ -13,6 +13,7 @@ A curated list of web3 Security materials and resources For Pentesters and Bug H
 - [GOAT Casino](https://github.com/nccgroup/GOATCasino)
 - [Paradigm CTF](https://github.com/paradigm-operations/paradigm-ctf-2021)
 - [Blocksec CTFs](https://github.com/blockthreat/blocksec-ctfs)
+- [ciphershastra CTF](https://ciphershastra.com/)
 
 # Common Vulnerabilities in Smart contracts MindMap
 Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
@@ -25,7 +26,12 @@ Open the [MindMap](https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-a
 # Web3 blogs and reports
 - [Immunefi Medium](https://medium.com/immunefi)
 - [openzeppelin blogs](https://blog.openzeppelin.com/security-audits/)
-- [consensys Audit](https://consensys.net/diligence/audits/)
+- [Quill Audits Blogs](https://quillaudits.medium.com/)
+- [consensys Audit Reports](https://consensys.net/diligence/audits/)
+- [Code4rena Audit Reports](https://code4rena.com/reports)
+- [Quillhash Audit Reports](https://github.com/Quillhash/QuillAudit_Reports)
+- [Spearbit Audit Reports](https://github.com/spearbit/portfolio/tree/master/pdfs)
+
 
 # Crypto Bug Bounty Platforms
 - [Immunefi](https://immunefi.com/)
@@ -33,11 +39,14 @@ Open the [MindMap](https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-a
 - [Code4rena](https://code4rena.com/)
 - [Gitcoin](https://gitcoin.co/explorer)
 - [HackerOne](https://hackerone.com)
+- [Spearbit](https://spearbit.com/)
+
 
 # Web3 Security Newsletter
 - [Blockchain Threat Intelligence](https://newsletter.blockthreat.io/)
 - [REKT](https://rekt.news/)
 - [Week in Ethereum News](https://weekinethereumnews.com/)
+- [HashingBits Newsletter](https://quillaudits.substack.com/)
 # Web3 Security Conference Talks and Videos
 - [Overview of Web3 Smart Contract Hacking | IWCON-S22 Talk by Duncan Townsend](https://www.youtube.com/watch?v=lJQwuyW4t-k)
 - [hat Ethereum Smart Contract Hacking Looks Like by LiveOverFlow](http://www.youtube.com/watch?v=P8LXLoTUJ5g)
@@ -66,7 +75,6 @@ Open the [MindMap](https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-a
 - [KubixSquare audit](https://github.com/KubixSquare/AuditReports)
 - [lemonade-audits](https://github.com/jigstack-dev/lemonade-audits)
 - [Techrate](https://github.com/TechRate/Smart-Contract-Audits)
-- [Quillhash](https://github.com/Quillhash/QuillAudit_Reports)
 - [interfinetwork](https://github.com/interfinetwork/smart-contract-audits)
 - [Decentraland audit](https://github.com/decentraland/smart-contract-audits)
 - [Tech-Audit](https://github.com/Tech-Audit/Smart-Contract-Audits)
