@@ -13,6 +13,7 @@ A curated list of web3 Security materials and resources For Pentesters and Bug H
 - [GOAT Casino](https://github.com/nccgroup/GOATCasino)
 - [Paradigm CTF](https://github.com/paradigm-operations/paradigm-ctf-2021)
 - [Blocksec CTFs](https://github.com/blockthreat/blocksec-ctfs)
+- [ciphershastra CTF](https://ciphershastra.com/)
 
 # Common Vulnerabilities in Smart contracts MindMap
 Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
