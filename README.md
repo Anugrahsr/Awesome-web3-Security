@@ -80,5 +80,8 @@ Open the [MindMap](https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-a
 - [Tech-Audit](https://github.com/Tech-Audit/Smart-Contract-Audits)
 - [Sifchain](https://drive.google.com/drive/folders/1kkjdpNuRmTjaiIKA6CQISavCvj4Awpbc)
 
+# Smart Contract Security Certifications
+- [Certified Blockchain Security Professional (CBSP)](https://blockchaintrainingalliance.com/products/cbsp))
+
 // To be updated!
 // RoadMap to be added
