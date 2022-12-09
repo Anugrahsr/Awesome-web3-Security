@@ -14,6 +14,7 @@ A curated list of web3 Security materials and resources For Pentesters and Bug H
 - [Paradigm CTF](https://github.com/paradigm-operations/paradigm-ctf-2021)
 - [Blocksec CTFs](https://github.com/blockthreat/blocksec-ctfs)
 - [ciphershastra CTF](https://ciphershastra.com/)
+- [DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs)
 
 # Common Vulnerabilities in Smart contracts MindMap
 Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
@@ -85,3 +86,5 @@ Open the [MindMap](https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-a
 
 // To be updated!
 // RoadMap to be added
+
+A star to the repo would be fantastic
