@@ -24,6 +24,10 @@ Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
 Open the [MindMap](https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-auditor)
 ![](/image/Smart_Contract_Auditor.png)
 
+# Web3 Security Tools
+Open the [MindMap](https://xmind.works/share/zfdeD07U)
+![](https://user-images.githubusercontent.com/44763564/207535347-6c3e3a67-486c-489c-8363-87146083ca59.png)
+Check the [Quillhash Web3-Security-Tools](https://github.com/Quillhash/Web3-Security-Tools) Repo for more details
 # Web3 blogs and reports
 - [Immunefi Medium](https://medium.com/immunefi)
 - [openzeppelin blogs](https://blog.openzeppelin.com/security-audits/)
