@@ -86,6 +86,8 @@ Check the [Quillhash Web3-Security-Tools](https://github.com/Quillhash/Web3-Secu
 - [Sifchain](https://drive.google.com/drive/folders/1kkjdpNuRmTjaiIKA6CQISavCvj4Awpbc)
 
 # Smart Contract Security Certifications
+- [Certified Blockchain Practitioner (CBP)](https://secops.group/certified-blockchain-practitioner/) 
+Use the coupon code **100-OFF** to get 100% discount
 - [Certified Blockchain Security Professional (CBSP)](https://blockchaintrainingalliance.com/products/cbsp))
 
 // To be updated!
