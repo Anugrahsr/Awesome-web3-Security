@@ -28,15 +28,17 @@ Open the [MindMap](https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-a
 Open the [MindMap](https://xmind.works/share/zfdeD07U)
 ![](https://user-images.githubusercontent.com/44763564/207535347-6c3e3a67-486c-489c-8363-87146083ca59.png)
 Check the [Quillhash Web3-Security-Tools](https://github.com/Quillhash/Web3-Security-Tools) Repo for more details
-# Web3 blogs and reports
-- [Immunefi Medium](https://medium.com/immunefi)
-- [openzeppelin blogs](https://blog.openzeppelin.com/security-audits/)
-- [Quill Audits Blogs](https://quillaudits.medium.com/)
-- [consensys Audit Reports](https://consensys.net/diligence/audits/)
-- [Code4rena Audit Reports](https://code4rena.com/reports)
-- [Quillhash Audit Reports](https://github.com/Quillhash/QuillAudit_Reports)
-- [Spearbit Audit Reports](https://github.com/spearbit/portfolio/tree/master/pdfs)
 
+
+# Web3 blogs and postmortem reports
+- [Immunefi Medium](https://medium.com/immunefi)
+- [Openzeppelin Blogs](https://blog.openzeppelin.com/security-audits/)
+- [QuillAudits Blogs](https://quillaudits.medium.com/)
+- [Solidity Scan Blogs](https://blog.solidityscan.com/)
+- [Beosin](https://medium.com/@Beosin_com)
+- [Neptune Mutual](https://neptunemutual.medium.com/)
+- [BlockSec](https://blocksecteam.medium.com/)
+- [CertiK](https://www.certik.com/resources/blog)
 
 # Crypto Bug Bounty Platforms
 - [Immunefi](https://immunefi.com/)
@@ -45,6 +47,9 @@ Check the [Quillhash Web3-Security-Tools](https://github.com/Quillhash/Web3-Secu
 - [Gitcoin](https://gitcoin.co/explorer)
 - [HackerOne](https://hackerone.com)
 - [Spearbit](https://spearbit.com/)
+- [Sherlock](https://app.sherlock.xyz/)
+- [The Saloon](https://saloon.finance/)
+- [Hats Finance](https://hats.finance/)
 
 
 # Web3 Security Newsletter
@@ -52,6 +57,8 @@ Check the [Quillhash Web3-Security-Tools](https://github.com/Quillhash/Web3-Secu
 - [REKT](https://rekt.news/)
 - [Week in Ethereum News](https://weekinethereumnews.com/)
 - [HashingBits Newsletter](https://quillaudits.substack.com/)
+
+
 # Web3 Security Conference Talks and Videos
 - [Overview of Web3 Smart Contract Hacking | IWCON-S22 Talk by Duncan Townsend](https://www.youtube.com/watch?v=lJQwuyW4t-k)
 - [hat Ethereum Smart Contract Hacking Looks Like by LiveOverFlow](http://www.youtube.com/watch?v=P8LXLoTUJ5g)
@@ -75,7 +82,12 @@ Check the [Quillhash Web3-Security-Tools](https://github.com/Quillhash/Web3-Secu
 
 # Smart Contract Security Audit Reports
 - [Chainsulting](https://github.com/chainsulting/Smart-Contract-Security-Audits)
+- [Code4rena Audit Reports](https://code4rena.com/reports)
+- [Consensys Audit Reports](https://consensys.net/diligence/audits/)
+- [QuillAudits Audit Reports](https://github.com/Quillhash/QuillAudit_Reports)
+- [Spearbit Audit Reports](https://github.com/spearbit/portfolio/tree/master/pdfs)
 - [iskdrews](https://github.com/iskdrews/awesome-solidity-security)
+- [Sherlock](https://github.com/sherlock-protocol/sherlock-reports)
 - [Avastars Smart Contract Audit Public Report](https://github.com/nicholashc/AvastarsAudit/)
 - [KubixSquare audit](https://github.com/KubixSquare/AuditReports)
 - [lemonade-audits](https://github.com/jigstack-dev/lemonade-audits)
@@ -84,6 +96,7 @@ Check the [Quillhash Web3-Security-Tools](https://github.com/Quillhash/Web3-Secu
 - [Decentraland audit](https://github.com/decentraland/smart-contract-audits)
 - [Tech-Audit](https://github.com/Tech-Audit/Smart-Contract-Audits)
 - [Sifchain](https://drive.google.com/drive/folders/1kkjdpNuRmTjaiIKA6CQISavCvj4Awpbc)
+- [Complete List of Security Audit Reports](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
 
 # Smart Contract Security Certifications
 - [Certified Blockchain Practitioner (CBP)](https://secops.group/certified-blockchain-practitioner/) 
