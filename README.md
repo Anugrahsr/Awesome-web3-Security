@@ -15,6 +15,8 @@ A curated list of web3 Security materials and resources For Pentesters and Bug H
 - [Blocksec CTFs](https://github.com/blockthreat/blocksec-ctfs)
 - [ciphershastra CTF](https://ciphershastra.com/)
 - [DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs)
+- [QuillCTF](https://quillctf.super.site/)
+- [vulnmachines - Blockchain hacking](https://www.vulnmachines.com/)
 
 # Common Vulnerabilities in Smart contracts MindMap
 Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
@@ -99,7 +101,7 @@ Check the [Quillhash Web3-Security-Tools](https://github.com/Quillhash/Web3-Secu
 - [Complete List of Security Audit Reports](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
 
 # Smart Contract Security Certifications
-- [Certified Blockchain Practitioner (CBP)](https://secops.group/certified-blockchain-practitioner/) 
+- [Certified Blockchain Practitioner (CBP)](https://secops.group/certified-blockchain-practitioner) 
 Use the coupon code **100-OFF** to get 100% discount
 - [Certified Blockchain Security Professional (CBSP)](https://blockchaintrainingalliance.com/products/cbsp))
 
