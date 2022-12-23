@@ -16,7 +16,7 @@ A curated list of web3 Security materials and resources For Pentesters and Bug H
 - [ciphershastra CTF](https://ciphershastra.com/)
 - [DeFiVulnLabs](https://github.com/SunWeb3Sec/DeFiVulnLabs)
 - [QuillCTF](https://quillctf.super.site/)
-- [vulnmachines - Blockchain hacking](https://www.vulnmachines.com/)
+- [Vulnmachines - Blockchain hacking](https://www.vulnmachines.com/)
 
 # Common Vulnerabilities in Smart contracts MindMap
 Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
