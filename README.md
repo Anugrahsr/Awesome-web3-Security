@@ -41,6 +41,7 @@ Check the [Quillhash Web3-Security-Tools](https://github.com/Quillhash/Web3-Secu
 - [Neptune Mutual](https://neptunemutual.medium.com/)
 - [BlockSec](https://blocksecteam.medium.com/)
 - [CertiK](https://www.certik.com/resources/blog)
+- [mouse-run](https://mouse-run.beehiiv.com)
 
 # Crypto Bug Bounty Platforms
 - [Immunefi](https://immunefi.com/)
