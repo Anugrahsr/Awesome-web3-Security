@@ -74,7 +74,7 @@ Check the [Quillhash Web3-Security-Tools](https://github.com/Quillhash/Web3-Secu
 
 // To be updated!
 
-# RoadMap to learn Solidity
+# Resources to learn Solidity
 - https://cryptozombies.io/
 - https://www.learnweb3.io/
 - https://www.smartcontract.engineer/
