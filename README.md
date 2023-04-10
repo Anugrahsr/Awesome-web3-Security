@@ -63,6 +63,9 @@ Check Remix Ethereum project here: https://remix-project.org/
 - [Week in Ethereum News](https://weekinethereumnews.com/)
 - [HashingBits Newsletter](https://quillaudits.substack.com/)
 
+# All-In-One Collection Of Latest Hacks,Trends and Resources
+- [Web3sec.news](https://web3sec.news)
+
 
 # Web3 Security Conference Talks and Videos
 - [Overview of Web3 Smart Contract Hacking | IWCON-S22 Talk by Duncan Townsend](https://www.youtube.com/watch?v=lJQwuyW4t-k)
