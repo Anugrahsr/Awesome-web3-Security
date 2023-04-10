@@ -63,7 +63,7 @@ Check Remix Ethereum project here: https://remix-project.org/
 - [Week in Ethereum News](https://weekinethereumnews.com/)
 - [HashingBits Newsletter](https://quillaudits.substack.com/)
 
-# All-In-One Collection Of Latest Hacks,Trends and Resources
+# Complete Collection of Hacks, Trends, Resources
 - [Web3sec.news](https://web3sec.news)
 
 
