@@ -65,6 +65,7 @@ Check Remix Ethereum project here: https://remix-project.org/
 - [HashingBits Newsletter](https://quillaudits.substack.com/)
 
 # Complete Collection of Hacks, Trends, Resources
+- [awesome-x402](https://github.com/xpaysh/awesome-x402) - Curated list of x402 HTTP 402 payment protocol resources, covering replay prevention, key management, and secure machine-to-machine payment flows on EVM chains
 - [Web3sec.news](https://web3sec.news)
 
 
