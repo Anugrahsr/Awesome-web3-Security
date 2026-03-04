@@ -66,8 +66,8 @@ Check Remix Ethereum project here: https://remix-project.org/
 
 # Complete Collection of Hacks, Trends, Resources
 - [awesome-x402](https://github.com/xpaysh/awesome-x402) - Curated list of x402 HTTP 402 payment protocol resources, covering replay prevention, key management, and secure machine-to-machine payment flows on EVM chains
+- [FORGE-Curated](https://github.com/shenyimings/FORGE-Curated) - High-quality formatted EVM smart contract vulnerability dataset sourced from audit reports by top-tier audit teams, featuring thousands of vulnerabilities mapped to project-level source code with CWE classification. Suitable for security research, education, and benchmarking vulnerability detection tools.
 - [Web3sec.news](https://web3sec.news)
-
 
 # Web3 Security Conference Talks and Videos
 - [Overview of Web3 Smart Contract Hacking | IWCON-S22 Talk by Duncan Townsend](https://www.youtube.com/watch?v=lJQwuyW4t-k)
