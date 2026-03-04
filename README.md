@@ -66,6 +66,7 @@ Check Remix Ethereum project here: https://remix-project.org/
 
 # Complete Collection of Hacks, Trends, Resources
 - [awesome-x402](https://github.com/xpaysh/awesome-x402) - Curated list of x402 HTTP 402 payment protocol resources, covering replay prevention, key management, and secure machine-to-machine payment flows on EVM chains
+- [Frostbyte Wallet API](https://frostbyte-landing.vercel.app) - Multi-chain HD wallet API for developers — generate wallets, derive addresses, and check balances across 9 chains (Ethereum, Bitcoin, Solana, Polygon, Avalanche, BSC, Arbitrum, Optimism, Base). Private keys are never stored server-side.
 - [Web3sec.news](https://web3sec.news)
 
 
