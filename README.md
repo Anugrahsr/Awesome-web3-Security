@@ -67,6 +67,7 @@ Check Remix Ethereum project here: https://remix-project.org/
 # Complete Collection of Hacks, Trends, Resources
 - [awesome-x402](https://github.com/xpaysh/awesome-x402) - Curated list of x402 HTTP 402 payment protocol resources, covering replay prevention, key management, and secure machine-to-machine payment flows on EVM chains
 - [Web3sec.news](https://web3sec.news)
+- [Web3 Writeup](https://github.com/sayan011/Immunefi-bug-bounty-writeups-list) - Immunefi-bug-bounty-writeups-list
 
 
 # Web3 Security Conference Talks and Videos
