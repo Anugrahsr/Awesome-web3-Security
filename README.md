@@ -107,6 +107,7 @@ Check Remix Ethereum project here: https://remix-project.org/
 - [Tech-Audit](https://github.com/Tech-Audit/Smart-Contract-Audits)
 - [Sifchain](https://drive.google.com/drive/folders/1kkjdpNuRmTjaiIKA6CQISavCvj4Awpbc)
 - [Complete List of Security Audit Reports](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
+- [SuiBets Security Audit](https://suibets.com/audit-report.html) - Comprehensive audit of decentralized sports betting protocol on Sui (1,726 lines Move code). [Formal Verification Report](https://suibets.com/formal-verification.html) with 13 proven properties.
 
 # Smart Contract Security Certifications
 - [Certified Blockchain Practitioner (CBP)](https://secops.group/certified-blockchain-practitioner) 
