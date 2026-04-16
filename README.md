@@ -18,6 +18,7 @@ A curated list of web3 Security materials and resources For Pentesters and Bug H
 - [QuillCTF](https://quillctf.super.site/)
 - [Vulnmachines - Blockchain hacking](https://www.vulnmachines.com/)
 - [Web3Pwn - Web3 Security Training Platform](https://www.web3pwn.com/)
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof-of-Antiquity blockchain with novel security properties. Rewards vintage hardware mining.
 
 # Common Vulnerabilities in Smart contracts MindMap
 Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
