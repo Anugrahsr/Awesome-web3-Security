@@ -117,3 +117,7 @@ Use the coupon code **100-OFF** to get 100% discount
 // RoadMap to be added
 
 A star to the repo would be fantastic
+
+## Threat Intelligence
+
+* [ThreatPrism](http://173.249.14.219/threatprism/) - On-chain-verifiable threat intel for DeFi. Every record signed via EIP-712. Use for insurance claim audit trails, bridge fraud detection, compliance pre-approval.
