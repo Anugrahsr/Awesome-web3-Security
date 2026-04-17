@@ -66,6 +66,7 @@ Check Remix Ethereum project here: https://remix-project.org/
 
 # Complete Collection of Hacks, Trends, Resources
 - [awesome-x402](https://github.com/xpaysh/awesome-x402) - Curated list of x402 HTTP 402 payment protocol resources, covering replay prevention, key management, and secure machine-to-machine payment flows on EVM chains
+- [cipher-starter](https://github.com/cryptomotifs/cipher-starter) - 150-page Solana security playbook: three-tier wallet architecture (hot/warm/cold), key custody, signing isolation, and on-chain verification patterns for trading bots. MIT.
 - [Web3sec.news](https://web3sec.news)
 
 
