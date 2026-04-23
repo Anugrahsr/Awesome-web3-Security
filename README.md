@@ -67,6 +67,7 @@ Check Remix Ethereum project here: https://remix-project.org/
 # Complete Collection of Hacks, Trends, Resources
 - [awesome-x402](https://github.com/xpaysh/awesome-x402) - Curated list of x402 HTTP 402 payment protocol resources, covering replay prevention, key management, and secure machine-to-machine payment flows on EVM chains
 - [Web3sec.news](https://web3sec.news)
+- [Sharpe Rug Check](https://www.sharpe.ai/rug-check) - Free token safety scanner and rug pull checker with 0-100 risk score across Solana (SPL + Token-2022), Ethereum, Base, BSC, Arbitrum, and Polygon. Honeypot simulation, mint-authority detection, LP-lock verification, and holder-concentration analysis. Public REST API and MCP server
 
 
 # Web3 Security Conference Talks and Videos
