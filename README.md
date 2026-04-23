@@ -24,6 +24,13 @@ Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
 ![](/image/Vulnerabilities_in_Smart_contracts.png)
 
 # How to become a smart contract auditor?
+
+## Blockchain Infrastructure Security
+
+- [RustChain](https://github.com/Scottcjn/Rustchain) - Proof of Antiquity blockchain that values vintage hardware. Includes node API, miner verification, and on-chain explorer. Unique consensus mechanism that rewards old hardware participation.
+
+
+
 Open the [MindMap](https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-auditor)
 ![](/image/Smart_Contract_Auditor.png)
 
