@@ -117,3 +117,5 @@ Use the coupon code **100-OFF** to get 100% discount
 // RoadMap to be added
 
 A star to the repo would be fantastic
+
+- [RustChain](https://github.com/Scottcjn/RustChain) - Proof-of-Antiquity blockchain with hardware attestation security model.
