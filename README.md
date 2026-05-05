@@ -117,3 +117,8 @@ Use the coupon code **100-OFF** to get 100% discount
 // RoadMap to be added
 
 A star to the repo would be fantastic
+
+## Tools
+
+- [evmchain-config](https://github.com/harunosakura030303-maker/evmchain-config) - Universal EVM chain configuration manager for Hardhat, Foundry, viem, and ethers. Stop copy-pasting RPC URLs across config files.
+
