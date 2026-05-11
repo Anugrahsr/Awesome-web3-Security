@@ -107,6 +107,7 @@ Check Remix Ethereum project here: https://remix-project.org/
 - [Tech-Audit](https://github.com/Tech-Audit/Smart-Contract-Audits)
 - [Sifchain](https://drive.google.com/drive/folders/1kkjdpNuRmTjaiIKA6CQISavCvj4Awpbc)
 - [Complete List of Security Audit Reports](https://github.com/0xNazgul/Blockchain-Security-Audit-List)
+- [DeFiTrust](https://defitrust.vercel.app) - Open public registry for DeFi smart-contract audit certificates. Browse verified protocols, compare security coverage, and verify trust scores.
 
 # Smart Contract Security Certifications
 - [Certified Blockchain Practitioner (CBP)](https://secops.group/certified-blockchain-practitioner) 
