@@ -36,6 +36,8 @@ Check Remix Ethereum project here: https://remix-project.org/
 (The Remix Project is a rich toolset which can be used for the entire journey of contract development by users of any knowledge level, and as a learning lab for teaching and experimenting with Ethereum.)
 
 # Web3 blogs and postmortem reports
+- [friendlygeorge/nova-audit](https://github.com/friendlygeorge/nova-audit) - Automated Solidity smart contract security analysis powered by Slither. GitHub + local repos, auto-detect solc, false-positive filtering, severity classification.
+- [friendlygeorge/base-scanner](https://github.com/friendlygeorge/base-scanner) - Lightweight on-chain security scanner for Base chain smart contracts — 15 pattern-based checks, no API key required.
 - [Immunefi Medium](https://medium.com/immunefi)
 - [Openzeppelin Blogs](https://blog.openzeppelin.com/security-audits/)
 - [QuillAudits Blogs](https://quillaudits.medium.com/)
