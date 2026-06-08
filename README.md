@@ -67,6 +67,7 @@ Check Remix Ethereum project here: https://remix-project.org/
 # Complete Collection of Hacks, Trends, Resources
 - [awesome-x402](https://github.com/xpaysh/awesome-x402) - Curated list of x402 HTTP 402 payment protocol resources, covering replay prevention, key management, and secure machine-to-machine payment flows on EVM chains
 - [Web3sec.news](https://web3sec.news)
+- [TWZRD Agent Intel](https://intel.twzrd.xyz) - Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments and before automated security analysis. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
 
 
 # Web3 Security Conference Talks and Videos
