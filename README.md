@@ -117,3 +117,7 @@ Use the coupon code **100-OFF** to get 100% discount
 // RoadMap to be added
 
 A star to the repo would be fantastic
+
+
+## Web3 & Security
+- [MetaVision CVE Oracle](https://metavision.click/cve) - Web3 vulnerability scanner. 355k+ CVEs from NVD database, specialized in Ethereum, Solidity, smart contracts, DeFi protocols. Free tier: 3/day. API: POST /cve {"keyword": "ethereum"}
