@@ -35,6 +35,10 @@ Check the [Quillhash Web3-Security-Tools](https://github.com/Quillhash/Web3-Secu
 Check Remix Ethereum project here: https://remix-project.org/
 (The Remix Project is a rich toolset which can be used for the entire journey of contract development by users of any knowledge level, and as a learning lab for teaching and experimenting with Ethereum.)
 
+## Infrastructure & RPC Monitoring
+
+- [OpenChainBench](https://openchainbench.com) - Continuous oracle deviation tracking (Chainlink/Pyth/Redstone), MEV-protection RPC benchmarks, and RPC stale-state monitoring. MIT licensed, open-source harnesses.
+
 # Web3 blogs and postmortem reports
 - [Immunefi Medium](https://medium.com/immunefi)
 - [Openzeppelin Blogs](https://blog.openzeppelin.com/security-audits/)
