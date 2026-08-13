@@ -67,6 +67,7 @@ Check Remix Ethereum project here: https://remix-project.org/
 # Complete Collection of Hacks, Trends, Resources
 - [awesome-x402](https://github.com/xpaysh/awesome-x402) - Curated list of x402 HTTP 402 payment protocol resources, covering replay prevention, key management, and secure machine-to-machine payment flows on EVM chains
 - [Web3sec.news](https://web3sec.news)
+- [Kerne Verify Anything](https://kerne.fi/verify-anything) - Free client-side tool to check any Base or Ethereum stablecoin's on-chain backing and ERC-4626 vault accounting from the browser, with no login, separating the part of the backing that is verifiable on chain from the part that requires trusting an attestor
 
 
 # Web3 Security Conference Talks and Videos
