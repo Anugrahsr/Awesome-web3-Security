@@ -6,6 +6,7 @@ A curated list of web3 Security materials and resources For Pentesters and Bug H
 
 # Vulnerable Web3 CTFs
 
+- [Darkmoon](https://github.com/ASCIT31/Dark-Moon) - Open source autonomous penetration testing platform (GPLv3). 50 specialist agents over MCP with proof of exploitation on every finding, runs locally.
 - [Capture the Ether](https://capturetheether.com/)
 - [The Ethernaut](https://ethernaut.openzeppelin.com/)
 - [Damn Vulnerable DeFi](https://www.damnvulnerabledefi.xyz/)
