@@ -45,6 +45,7 @@ Check Remix Ethereum project here: https://remix-project.org/
 - [BlockSec](https://blocksecteam.medium.com/)
 - [CertiK](https://www.certik.com/resources/blog)
 - [mouse-run](https://mouse-run.beehiiv.com)
+- [Web3 and Blockchain Penetration Testing: What Actually Gets Tested](https://traztech.ca/blog/web3-blockchain-penetration-testing) - Practical overview of Web3 penetration testing methodology and scope.
 
 # Crypto Bug Bounty Platforms
 - [Immunefi](https://immunefi.com/)
