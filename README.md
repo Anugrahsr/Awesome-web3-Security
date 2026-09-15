@@ -67,6 +67,8 @@ Check Remix Ethereum project here: https://remix-project.org/
 # Complete Collection of Hacks, Trends, Resources
 - [awesome-x402](https://github.com/xpaysh/awesome-x402) - Curated list of x402 HTTP 402 payment protocol resources, covering replay prevention, key management, and secure machine-to-machine payment flows on EVM chains
 - [Web3sec.news](https://web3sec.news)
+- [HostDeFi](https://hostdefi.com) - Free token-safety scanner: A+–F grades from on-chain checks (mint/freeze authority, liquidity depth, holder concentration, contract flags) across Solana and 7 EVM chains.
+
 
 
 # Web3 Security Conference Talks and Videos
