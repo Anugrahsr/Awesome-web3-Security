@@ -45,6 +45,7 @@ Check Remix Ethereum project here: https://remix-project.org/
 - [BlockSec](https://blocksecteam.medium.com/)
 - [CertiK](https://www.certik.com/resources/blog)
 - [mouse-run](https://mouse-run.beehiiv.com)
+- [Onchain Diary](https://theonchaindiary.com/) - Web3 security post-mortems & attacker economics
 
 # Crypto Bug Bounty Platforms
 - [Immunefi](https://immunefi.com/)
