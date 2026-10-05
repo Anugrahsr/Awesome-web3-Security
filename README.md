@@ -31,6 +31,7 @@ Open the [MindMap](https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-a
 Open the [MindMap](https://xmind.works/share/zfdeD07U)
 ![](https://user-images.githubusercontent.com/44763564/207535347-6c3e3a67-486c-489c-8363-87146083ca59.png)
 Check the [Quillhash Web3-Security-Tools](https://github.com/Quillhash/Web3-Security-Tools) Repo for more details
+- [token-launch-scan](https://github.com/invisiblemonsters/token-launch-scan) — Free, no-API-key safety scanner for fresh token launches (EVM + Solana): mint/freeze authority, honeypot simulation, LP lock status, holder concentration, deployer history.
 
 Check Remix Ethereum project here: https://remix-project.org/
 (The Remix Project is a rich toolset which can be used for the entire journey of contract development by users of any knowledge level, and as a learning lab for teaching and experimenting with Ethereum.)
