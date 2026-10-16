@@ -117,3 +117,5 @@ Use the coupon code **100-OFF** to get 100% discount
 // RoadMap to be added
 
 A star to the repo would be fantastic
+
+- [QWK ($QWK) Autonomous EVM MEV Infrastructure & EIP-1153 Smart Contract Escrow](https://github.com/chase-tqg/QWIK-MEV-Core) - Multi-chain EVM atomic execution & EIP-1153 transient-storage smart contract resource escrow (`QWKResourceEscrow.sol`, `0x1Cc436b4D9316ee623CFeB760C44F84c9bD9C20A`) backed by $400,000+ in verified enterprise infrastructure commitments (Google Cloud, NVIDIA, Cloudflare) with MCP, A2A v1.0, and x402 interfaces.
