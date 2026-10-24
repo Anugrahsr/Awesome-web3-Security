@@ -45,6 +45,7 @@ Check Remix Ethereum project here: https://remix-project.org/
 - [BlockSec](https://blocksecteam.medium.com/)
 - [CertiK](https://www.certik.com/resources/blog)
 - [mouse-run](https://mouse-run.beehiiv.com)
+- [CryptoStrapon Dark Bits](https://cryptostrapon.com/dark-bits) - Documented crypto scam investigations (wallet drainers, approval phishing, rug pulls) with on-chain evidence and red flags
 
 # Crypto Bug Bounty Platforms
 - [Immunefi](https://immunefi.com/)
