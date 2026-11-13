@@ -27,6 +27,8 @@ Open the mindmap in [Xmind](https://www.xmind.net/m/2zbPP7/)
 Open the [MindMap](https://coggle.it/diagram/YqLzaiSABzXD4UnZ/t/smart-contract-auditor)
 ![](/image/Smart_Contract_Auditor.png)
 
+- [Smart Contract Auditor Roadmap](https://smartcontractshacking.com/tools/smart-contract-auditor-roadmap) - Free interactive roadmap for assessing current skills and planning Solidity security study.
+
 # Web3 Security Tools
 Open the [MindMap](https://xmind.works/share/zfdeD07U)
 ![](https://user-images.githubusercontent.com/44763564/207535347-6c3e3a67-486c-489c-8363-87146083ca59.png)
