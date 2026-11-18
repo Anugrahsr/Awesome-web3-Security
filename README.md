@@ -94,6 +94,7 @@ Check Remix Ethereum project here: https://remix-project.org/
 - [Chainsulting](https://github.com/chainsulting/Smart-Contract-Security-Audits)
 - [Code4rena Audit Reports](https://code4rena.com/reports)
 - [Consensys Audit Reports](https://consensys.net/diligence/audits/)
+- [Guardian Audit Reports](https://github.com/GuardianAudits/Audits)
 - [QuillAudits Audit Reports](https://github.com/Quillhash/QuillAudit_Reports)
 - [Spearbit Audit Reports](https://github.com/spearbit/portfolio/tree/master/pdfs)
 - [iskdrews](https://github.com/iskdrews/awesome-solidity-security)
